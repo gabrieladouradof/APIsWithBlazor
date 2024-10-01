@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\BlazorGetTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest.client\\pages\\get.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|solutionrelative:blazorgettest\\blazorgettest.client\\pages\\get.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\components\\controllers\\getcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\components\\controllers\\getcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest.client\\services\\igetapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|solutionrelative:blazorgettest\\blazorgettest.client\\services\\igetapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\blazorgettest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\blazorgettest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest.client\\blazorgettest.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|solutionrelative:blazorgettest\\blazorgettest.client\\blazorgettest.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest.client\\programclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|solutionrelative:blazorgettest\\blazorgettest.client\\programclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\programserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\programserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{957BA395-0C00-49CC-A2D1-A9416190EE99}|BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj|solutionrelative:blazorgettest\\blazorgettest.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|c:\\dev\\blazorgettest\\blazorgettest\\blazorgettest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56736F33-3831-483A-990F-2FEA2F110AD0}|BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj|solutionrelative:blazorgettest\\blazorgettest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Components\\App.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\App.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T13:13:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Components\\Routes.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T13:13:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetApi.cs",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\Services\\IGetApi.cs",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest.Client\\Services\\IGetApi.cs",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\Services\\IGetApi.cs",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest.Client\\Services\\IGetApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:23:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest.Client\\_Imports.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest.Client\\_Imports.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T15:01:30.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetController.cs",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Controllers\\GetController.cs",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Components\\Controllers\\GetController.cs",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Controllers\\GetController.cs",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Components\\Controllers\\GetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:52:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Get.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\Pages\\Get.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest.Client\\Pages\\Get.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\Pages\\Get.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest.Client\\Pages\\Get.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T13:35:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgramClient.cs",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\ProgramClient.cs",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest.Client\\ProgramClient.cs",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\ProgramClient.cs",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest.Client\\ProgramClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:25:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlazorGetTest.Client",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest.Client\\BlazorGetTest.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T13:21:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgramServer.cs",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\ProgramServer.cs",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\ProgramServer.cs",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\ProgramServer.cs",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\ProgramServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:13:28.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T15:02:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Components\\_Imports.razor",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T15:02:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlazorGetTest",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\BlazorGetTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T13:27:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorGetTest\\BlazorGetTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorGetTest\\BlazorGetTest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T14:33:04.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

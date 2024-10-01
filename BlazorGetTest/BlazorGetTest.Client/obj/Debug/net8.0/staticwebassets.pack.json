@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\obj\\Debug\\net8.0\\compressed\\ohf18hj24a.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\dev\\BlazorGetTest\\BlazorGetTest\\BlazorGetTest.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorGetTest.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorGetTest.Client.props",
+      "PackagePath": "build\\BlazorGetTest.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorGetTest.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorGetTest.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorGetTest.Client.props",
+      "PackagePath": "buildTransitive\\BlazorGetTest.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

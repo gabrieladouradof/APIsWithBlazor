@@ -1,0 +1,28 @@
+﻿@page "/advice"
+@rendermode InteractiveWebAssembly
+@inject IGetApi GetApi
+
+<h3>GET Page</h3>
+
+<button @onclick="FetchAdvice">Get Advice</button>
+
+<p>@advice</p>
+
+@code {
+   
+    private string advice = string.Empty;
+
+    private async Task FetchAdvice()
+    {
+        try
+        {
+            var response = await GetApi.GetAdviceAsync();  
+            advice = response.Advice;
+        }
+        catch (Exception ex)
+        {
+            advice = "Error fetching advice: " + ex.Message;
+        }
+    }
+}
+
