@@ -1,5 +1,8 @@
 using BlazorGetTest.Client.Pages;
+using BlazorGetTest.Client.Services;
 using BlazorGetTest.Components;
+using BlazorGetTest.Components.Handler;
+using Refit;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +12,10 @@ builder.Services.AddControllers();
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+
+builder.Services.AddRefitClient<IGetApi>()
+    .ConfigureHttpClient(c => c.BaseAddress = new Uri("https://api.adviceslip.com"))
+    .AddHttpMessageHandler(() => new LoggingHandler());
 
 var app = builder.Build();
 

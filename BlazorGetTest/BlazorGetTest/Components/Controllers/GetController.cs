@@ -10,6 +10,8 @@ namespace BlazorGetTest.Server.Controllers
         public IActionResult GetAdvice()
         {
             var advice = new { Advice = "Stay positive, keep learning!" };
+
+            //
             return Ok(advice);
         }
     }

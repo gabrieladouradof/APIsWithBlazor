@@ -1,5 +1,5 @@
-﻿@page "/advice"
-@rendermode InteractiveWebAssembly
+﻿@rendermode InteractiveWebAssembly
+@page "/advice"
 @inject IGetApi GetApi
 
 <h3>GET Page</h3>
@@ -17,7 +17,7 @@
         try
         {
             var response = await GetApi.GetAdviceAsync();  
-            advice = response.Advice;
+            advice = response.slip.Advice;
         }
         catch (Exception ex)
         {

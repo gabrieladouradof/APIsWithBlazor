@@ -1056,3 +1056,4 @@ C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest.Client\obj\Debug\net8.0\BlazorG
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest.Client\obj\Debug\net8.0\refint\BlazorGetTest.Client.dll
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest.Client\obj\Debug\net8.0\BlazorGetTest.Client.pdb
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest.Client\obj\Debug\net8.0\ref\BlazorGetTest.Client.dll
+C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest.Client\obj\Debug\net8.0\BlazorGetTest.Client.sourcelink.json

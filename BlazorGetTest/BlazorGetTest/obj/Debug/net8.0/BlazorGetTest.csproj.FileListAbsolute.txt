@@ -58,3 +58,4 @@ C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest\obj\Debug\net8.0\refint\BlazorG
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest\obj\Debug\net8.0\BlazorGetTest.pdb
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest\obj\Debug\net8.0\BlazorGetTest.genruntimeconfig.cache
 C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest\obj\Debug\net8.0\ref\BlazorGetTest.dll
+C:\dev\BlazorGetTest\BlazorGetTest\BlazorGetTest\obj\Debug\net8.0\BlazorGetTest.sourcelink.json
